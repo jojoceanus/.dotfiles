@@ -4,6 +4,7 @@ DOTFILES_DIR="$HOME/.dotfiles"
 DESTINATION="$HOME"
 
 FILES=(
+    ".vimrc .vimrc"
 )
 
 info() {
